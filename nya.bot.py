@@ -6,7 +6,7 @@ from random import *
 
 from aiogram.types import ReplyKeyboardMarkup,KeyboardButton
 
-bot: Bot=Bot(token='6119338121:AAE1Sa9HMIvvOeGzMb7TNCGvV0DBGgihRkA')
+bot: Bot=Bot(token='TOKEN')
 dp: Dispatcher=Dispatcher()
 
 
